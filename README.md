@@ -1,6 +1,4 @@
-# Energy Consumption Optimization Project (پروژه بهینه‌سازی مصرف انرژی)
-
-## English Version
+# Energy Consumption Optimization Project
 
 ### Optimized Operation Overview
 
@@ -49,7 +47,8 @@ To run this project, the following libraries are required:
 
 ### Installation
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/energy-consumption-optimization.git
-   ```
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/energy-consumption-optimization.git
+```
