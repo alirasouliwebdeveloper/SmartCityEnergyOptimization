@@ -1,4 +1,4 @@
-# Energy Consumption Optimization Project
+# Energy Consumption Optimization - Zurich - Switzerland
 
 ### Optimized Operation Overview
 
@@ -49,6 +49,30 @@ To run this project, the following libraries are required:
 
 Clone the repository to your local machine:
 
+1- Clone the repository to your local machine:
+
 ```bash
 git clone https://github.com/alirasouliwebdeveloper/SmartCityEnergyOptimization.git
+```
+
+2- Install the required dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3- You should now be ready to run the simulation and generate the plots!
+
+### Usage
+
+To simulate the energy consumption data and generate the corresponding visualizations, run the following Python script:
+
+```bash
+python energy_optimization.py
+```
+
+### License
+
+```bash
+This project is licensed under the MIT License - see the LICENSE file for details.
 ```
