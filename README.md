@@ -50,5 +50,5 @@ To run this project, the following libraries are required:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/energy-consumption-optimization.git
+git clone https://github.com/alirasouliwebdeveloper/SmartCityEnergyOptimization.git
 ```
