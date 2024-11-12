@@ -70,9 +70,3 @@ To simulate the energy consumption data and generate the corresponding visualiza
 ```bash
 python energy_optimization.py
 ```
-
-### License
-
-```bash
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
